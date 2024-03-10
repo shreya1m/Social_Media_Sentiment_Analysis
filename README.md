@@ -1,6 +1,4 @@
-# Social_Media_Sentiment_Analysis
-
-# Sentiment Analysis using Random Forest Classifier
+# Social_Media_Sentiment_Analysis using Random Forest Classifier
 
 ## Overview
 
@@ -26,6 +24,7 @@ This project aims to perform sentiment analysis on textual data using a Random F
 
 ## Dependencies
 
+- python
 - pandas
 - nltk
 - sklearn
@@ -37,32 +36,11 @@ This project aims to perform sentiment analysis on textual data using a Random F
 1. Install dependencies:
    pip install pandas nltk scikit-learn imbalanced-learn numpy
 2. Clone the repository:
-   git clone https://github.com/your_username/sentiment-analysis.git
+   git clone https://github.com/shreya1m/Social_Media_Sentiment_Analysis.git
 3. Navigate to the project directory:
   cd sentiment-analysis
 4. Run the script:
-  python Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your_username/sentiment-analysis.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd sentiment-analysis
-Run the script:
-
-bash
-Copy code
-python sentiment_analysis.py
-Results
-The model achieved an accuracy of 0.69 on the test dataset.
-Cross-validation results demonstrate the model's potential for generalization.
-Future Improvements
-Collect and incorporate more diverse data to enhance the model's performance.
-Experiment with different classifiers and hyperparameter tuning for optimization.
-Feel free to contribute and provide feedback!
+  python socialmedia_sentimentanalysis.py
 ## Results
 - The model achieved an accuracy of 0.69 on the test dataset.
 - Cross-validation results demonstrate the model's potential for generalization.
