@@ -35,5 +35,38 @@ This project aims to perform sentiment analysis on textual data using a Random F
 ## Usage
 
 1. Install dependencies:
-   ```bash
    pip install pandas nltk scikit-learn imbalanced-learn numpy
+2. Clone the repository:
+   git clone https://github.com/your_username/sentiment-analysis.git
+3. Navigate to the project directory:
+  cd sentiment-analysis
+4. Run the script:
+  python Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your_username/sentiment-analysis.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd sentiment-analysis
+Run the script:
+
+bash
+Copy code
+python sentiment_analysis.py
+Results
+The model achieved an accuracy of 0.69 on the test dataset.
+Cross-validation results demonstrate the model's potential for generalization.
+Future Improvements
+Collect and incorporate more diverse data to enhance the model's performance.
+Experiment with different classifiers and hyperparameter tuning for optimization.
+Feel free to contribute and provide feedback!
+## Results
+- The model achieved an accuracy of 0.69 on the test dataset.
+- Cross-validation results demonstrate the model's potential for generalization.
+## Future Improvements
+- Collect and incorporate more diverse data to enhance the model's performance.
+- Experiment with different classifiers and hyperparameter tuning for optimization.
+Feel free to contribute and provide feedback!
